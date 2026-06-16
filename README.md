@@ -1,80 +1,152 @@
-<h1 align="center">Hi 👋, I'm Shifaul Kareem</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Cybersecurity Enthusiast | IoT Builder</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent applications, secure systems, and connected technologies that solve real-world problems.
-</p>
+# Hi 👋, I'm Shifaul Kareem
+
+### AI Engineer • Full-Stack Developer • Cybersecurity Enthusiast • IoT Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Cybersecurity+%26+Secure+Development;IoT+Solutions+and+Automation;Flutter+%7C+Python+%7C+Flask;Always+Learning+and+Building" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Building AI-powered products and modern applications
-- 🌱 Exploring AI Agents, Cybersecurity, Cloud Computing, and IoT
-- 💡 Passionate about solving real-world problems through technology
-- 🛡️ Interested in Secure Software Development and Ethical Hacking
-- ⚡ Combining AI, Cybersecurity, and IoT to create innovative solutions
+I'm a technology enthusiast passionate about building intelligent software, secure systems, and connected devices.
+
+- 🔭 Building AI-powered products and real-world applications
+- 🛡️ Exploring Cybersecurity, Secure Development & Ethical Hacking
+- 🤖 Developing AI-driven solutions and automation systems
+- 🌐 Creating scalable full-stack applications
+- 📡 Working on IoT and embedded technologies
+- 📚 Continuously learning emerging technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-### Languages
-Python • Dart • JavaScript • C++ • SQL
+<p align="center">
+<a href="https://www.linkedin.com/in/shifaulkareem06">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/i_amshifa_06">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/i-amshifa-06">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+---
 
 ### Frameworks & Tools
-Flutter • Flask • Firebase • REST APIs • Git • GitHub
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
 
 ### AI & Automation
-Generative AI • Prompt Engineering • AI Applications • Workflow Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Generative AI](https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+
+---
 
 ### Cybersecurity
-Network Security • Web Security • OWASP • Security Testing • Secure Development
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge)
+
+---
 
 ### IoT
-ESP32 • Arduino • MQTT • Sensor Integration • Embedded Systems
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🎤 SpeakerFlow AI
-AI-powered communication and speech enhancement platform designed to improve speaking confidence, communication skills, and presentation effectiveness.
 
-**Technologies:** Flutter, Python, Flask, AI APIs
+AI-powered communication platform designed to improve speaking confidence, presentation skills, and communication effectiveness through intelligent feedback.
+
+**Tech:** Flutter • Python • Flask • AI APIs
 
 ---
 
 ### 🛡️ CyberShield
-Cybersecurity-focused platform promoting security awareness, secure development practices, and practical cybersecurity solutions.
 
-**Technologies:** Python, Flask, Security Tools
+Cybersecurity-focused platform for security awareness, secure coding practices, and practical security solutions.
 
----
-
-### 🌐 IoT Smart Monitoring System
-Real-time monitoring and analytics system built with connected devices and sensor networks.
-
-**Technologies:** ESP32, Arduino, MQTT, Python
+**Tech:** Python • Flask • Security Tools
 
 ---
 
-## 📈 GitHub Stats
+### 📡 IoT Smart Monitoring System
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-amshifa-06&show_icons=true)
+Real-time monitoring solution using connected sensors and embedded devices for intelligent data collection and analytics.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-amshifa-06&layout=compact)
-
----
-
-## 🌍 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/shifaulkareem06
-- Instagram: https://www.instagram.com/i_amshifa_06
-- GitHub: https://github.com/i-amshifa-06
+**Tech:** ESP32 • Arduino • MQTT • Python
 
 ---
 
-### 💭 Personal Motto
+## 📊 GitHub Analytics
 
-"Building intelligent, secure, and impactful technology for the future."
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=i-amshifa-06&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-amshifa-06&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-amshifa-06&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Artificial Intelligence
+- AI Agents & Automation
+- Cybersecurity
+- Full-Stack Development
+- IoT Systems
+- Cloud Technologies
+
+---
+
+## 💡 Motto
+
+> Building intelligent, secure, and impactful technology for the future.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=i-amshifa-06&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
